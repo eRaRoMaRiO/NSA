@@ -1,0 +1,72 @@
+
+
+
+.main{
+    width: 100%;
+    height: 100%;
+}
+
+.astronautsBlock{
+    margin: 50px;
+    width: 1250px;
+    height: 400px;
+    background-color: rgb(122, 150, 212);
+}
+
+.astronautBlock{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    margin: 25px;
+    background-color: rgb(59, 76, 112);
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    white-space: pre-wrap;
+}
+
+.reroll{
+    width: 125px;
+    height: 60px;
+    font-size: 20px;
+    margin-left: 30%;
+    background-color: rgb(59, 76, 112);
+    color: #fff;
+}
+
+.foto{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin-left: 25px;
+    background: url(../img/portraits/Background.png);
+}
+
+.eyes{
+    position: absolute;
+    left: -22px;
+    top: 25px;
+}
+
+.hair{
+    position: absolute;
+    left: -19px;
+    top: -8px;
+}
+
+.noses{
+    position: absolute;
+    left: 16px;
+    top: 49px;
+}
+
+.faces{
+    position: absolute;
+    left: 5px;
+    top: 25px;
+}
+
+.mouth{
+    position: absolute;
+    left: 13px;
+    top: 70px;
+}
